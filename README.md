@@ -1,4 +1,4 @@
-# pro-context-test
+# [Посмотреть](https://pro-context-test.onrender.com/) live версию
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
